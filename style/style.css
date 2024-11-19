@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+
+p{
+    font-size: 35px;
+    text-align: center;
+}
+
+button{
+    width: 250px;
+    background-color: #0000FF;
+}
+
+button:hover{
+    background-color: #008000;
+}
+.container .row p{
+    line-height: 100px;
+}
+
